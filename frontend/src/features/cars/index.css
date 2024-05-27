@@ -1,0 +1,8 @@
+.heading {
+    display: flex;
+    justify-content: center;
+}
+.listCarButton {
+    display: flex;
+    justify-content: center;
+}
