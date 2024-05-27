@@ -19,7 +19,7 @@ Features:
 
   Cars:
 
-        CRUD operations for car details.
+        CRUD operations for cars.
         Dropdown for selecting car categories.
         Fields: color, model, make, registration number, etc.
         Data Tables
