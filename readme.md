@@ -9,7 +9,7 @@ Features:
   User Authentication:
 
        Sign-in and sign-up pages.
-       Welcome email and randomly generated password sent upon successful sign-up.
+       Verification email send upon signUp.
        JWT-based authentication for securing the system.
 
   Dashboard:
